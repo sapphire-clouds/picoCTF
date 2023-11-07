@@ -36,3 +36,9 @@ ___
 <details>
   <summary>Crptography</summary>
 </details>
+
+
+|No.|Problems|Category|Result|
+|:-:|:------:|:------:|:-----:|
+|1. |[Keygenme-py]|Reverse Engineering|✅ SOLVED|
+|2. |[GDB Baby Step 0]|Cryptography|✅ SOLVED|
