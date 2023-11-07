@@ -19,4 +19,5 @@
 |12.|[Macrohard Weakedge](https://github.com/sapphire-clouds/picoCTF/blob/main/Write-ups/Macrohard%20Weakedge)|Forensics| |
 |13.|[new caesar](https://github.com/sapphire-clouds/picoCTF/blob/main/Write-ups/new%20caesar)|Crptography| |
 |14.|[miniRSA](https://github.com/sapphire-clouds/picoCTF/blob/main/Write-ups/miniRSA)|Crptography| |
-|15.|[mod1/mod2](https://github.com/sapphire-clouds/picoCTF/blob/main/Write-ups/mod1mod2)| |
+|15.|[mod1/mod2](https://github.com/sapphire-clouds/picoCTF/blob/main/Write-ups/mod1mod2)|Cryptography| |
+|16.|[Obedient Cat](https://github.com/sapphire-clouds/picoCTF/blob/main/Write-ups/Obedient%20Cat.md)|General skills| |
