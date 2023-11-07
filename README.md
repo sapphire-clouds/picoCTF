@@ -6,7 +6,7 @@
 |No.|Problems|Category|Result|
 |:-:|:------:|:------:|:-----:|
 |1. |[Keygenme-py](https://github.com/sapphire-clouds/picoCTF/blob/main/Keygenme-py.md)|Reverse Engineering||
-|2. |GDB Baby Step 1|Reverse Engineering||
+|2. |[GDB Baby Step 1](https://github.com/sapphire-clouds/picoCTF/blob/main/Write-ups/GDB%20Baby%20Step%201.md)|Reverse Engineering||
 |3. |ARMssembly 0|Reverse Engineering| |
 |4. |stonks|Binary Exploitation| |
 |5. |buffer overflow 0|Binary Exploitation| |
